@@ -1,6 +1,6 @@
 [versions]
 compose-compiler = "1.2.0"
-compose = "1.2.0"
+compose = "1.2.1"
 compose-material3 = "1.0.0-alpha01"
 
 [libraries]
