@@ -4,7 +4,8 @@ compose = "1.2.0"
 compose-material3 = "1.0.0-alpha01"
 
 [libraries]
-compose-compiler = { module = "androidx.compose.compiler:compiler", version.ref = "compose-compiler" }
+# Not used but required to work Renovate
+#compose-compiler = { module = "androidx.compose.compiler:compiler", version.ref = "compose-compiler" }
 compose-ui = { module = "androidx.compose.runtime:runtime", version.ref = "compose" }
 compose-ui-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "compose" }
 compose-ui-test-junit4 = { module = "androidx.compose.ui:ui-test-junit4", version.ref = "compose" }
