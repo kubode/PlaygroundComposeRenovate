@@ -1,7 +1,7 @@
 [versions]
 compose-compiler = "1.2.0"
 compose = "1.2.0"
-compose-material3 = "1.0.0-alpha01"
+compose-material3 = "1.0.0-beta03"
 
 [libraries]
 # Not used but required to work Renovate
